@@ -1,42 +1,58 @@
-[Intro, Spoken, Religious]
+[Intro] [Spoken]
 Si nous somme réunis en ce jour,
 C'est pour pénétrer dans l'antre de la déchéance,
 Le royaume de la décadence,
 J'ai nommé "La Confrérie Des Salopes".
-(Amen!)
+[Choir] (Amen!)
+
+*Organ solo*
 
 [Verse]
-(Lagostera)
-Un petit groupe d'idiots
-(Lagostera)
-Une vraie bande de golio
-(Lagostera)
-Toute la journée sur un serveur
-(Lagostera)
-Les trois quarts sont chômeurs!
-(Blenndal?)
-JM a tout perdu
-(Blenndal?)
-Sa femme, son gosse, son cul
-(Lagostera)
+[Soprano] Un petit groupe d'idiots
+[Choir] (Lagostèra!)
+[Soprano] Une vraie bande de golio
+[Choir] (Lagostèra!)
+[Soprano] Toute la journée sur un serveur
+[Choir] (Lagostèra!)
+[Soprano] Les trois quarts sont chômeurs!
+[Choir] (Blenndal?)
+[Soprano] J'y aime a tout perdu
+[Choir] (Blenndal?)
+[Soprano] Sa femme, son gosse, son cul
+[Choir] (Lagostèra! Lagostèra! Lagostèra!)
 
-[Chorus]
-(Lagosteraaaaaaaa)
-Inne nominé patris ette filii et spiritous sancti
-Inne nominé Yannick ette Philippe Manoeuvre
-La confrérie des salopes
-(Amen!)
+[Intermission] [Spoken] [Man]
+ô Yannick,
+ô Misha,
+ô Axel,
+Grands maîtres de la confrérie, nous implorons votre clémence
+J'y aime a péché, j'y aime a fauté
+Mais j'y aime n'est qu'un homme
+Pardonnez-le, car il ne sait pas ce qu'il fait
 
-[Verse]
-(Lagostera)
+[Orchestra]
+(Dominus Salopus)
+(Confrerium Salopus)
+(Julius Marius)
+
+[Verse] [Climax]
 Y'a Axel qui tourne en rond
-(Lagostera)
-Faut quand même être con
-(Lagostera)
+Il farme comme un con
 Pas foutu de trouver un emploi
 (Trop tôt)
-Même pas chez Top Micha
-(Lagostera)
+Même pas chez Top Misha
+(Lagostèra)
+
+[Music Stops]
+[Outro]
+[Spoken]
+(Fraternitas pessumarum fores tibi hodie claudit)
+La confrérie des salopes, aujourd'hui vous ferme ses portes
+(Quia ingressum non nisi ad maximum degeneratum permisit)
+Car l'entrée n'est permise qu'aux plus grands des dégénérés.
+(Ad spurium maxime vitiosus)
+Au plus vicieux des salauds
+(Amen!)
 
 [Chorus]
 (Lagosteraaaaaaaa)

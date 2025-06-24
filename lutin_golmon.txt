@@ -1,4 +1,4 @@
-[Verse, Choir]
+[Verse]
 Je suis le lutin golmon
 J'ai un gros nez et des gros pieds
 Je fais des trucs de golmon
@@ -6,7 +6,7 @@ Genre manger des cailloux et du gravier
 Ranger mes chaussettes dans le frigo
 Mettre Bénabar à la radio
 
-[Chorus, Epic, Melodic]
+[Chorus]
 Je suis le lutin golmon
 Le plus golmon de tous les lutins
 Je suis le lutin golmon
@@ -14,13 +14,13 @@ Le plus golmon de tous les lutins
 Ici, là-bas, partout
 Je suis le lutin golmon
 
-[Verse, Choir]
+[Verse]
 J'adore faire des trucs de golmon!
 J'vais péter dans ta soupe de potiron
 parce que j'suis un golmon
 et toi t'es qu'un gros con!
 
-[Chorus, Epic, Melodic]
+[Chorus]
 Je suis le lutin golmon
 Le plus golmon de tous les lutins
 Je suis le lutin golmon
@@ -32,7 +32,7 @@ Je suis le lutin golmon
 Le plus golmon de tous les lutins
 Ici, là-bas, partout
 
-[Verse, Choir]
+[Verse]
 J'adore faire des trucs de golmon!
 genre partir à la peche au potiron
 parce que j'suis un golmon

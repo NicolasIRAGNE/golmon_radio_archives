@@ -1,12 +1,16 @@
+[Intro]
+(Oh-oooh-oooooooh)
+(Oh-oooh-oooooooh)
+
 [Verse]
 Tout seul dans son bureau,
 Abandonné par ses confrères,
-Voici l'ami Roro,
+Voici l'ami roro,
 Qui devant Webpack désespère
 Il met des peaux de banane dans les escaliers
 Juste Pour voir ses collègues se viander
 Et une mine antipersonnelle
-Sous le bureau de Christelle
+Sous le bureau de Manèle
 
 [Pre-Chorus]
 Un jour, un collègue ma foi bien intentionné
@@ -15,10 +19,10 @@ Une simple tentative d'amitié
 Qui en "nique ta mère" s'est terminée
 
 [Chorus]
-Oh, Roro, Roro
+Oh, roro, roro
 (Rodolphe)!
-L'en qu'hulé de l'open space!
-Oh, Roro, Roro
+L'enculé de l'open space!
+Oh, roro, roro
 (Rodolphe)!
 Il est sur le spectre!
 Son petit coeur est en peine
@@ -37,20 +41,20 @@ Rodolphe, faut pas se leurrer
 Fallait ptêtre pas pisser dans la machine à café
 
 [Chorus]
-Oh, Roro, Roro
+Oh, roro, roro
 (Rodolphe)!
-L'en qu'hulé de l'open space!
-Oh, Roro, Roro
+L'enculé de l'open space!
+Oh, roro, roro
 (Rodolphe)!
 Il est sur le spectre!
 Son petit coeur est en peine
 (Rodolphe)!
 Développeur rempli de haine
 Rodolphe!
-Oh, Roro, Roro
+Oh, roro, roro
 (Rodolphe)!
-L'en qu'hulé de l'open space!
-Oh, Roro, Roro
+L'enculé de l'open space!
+Oh, roro, roro
 (Rodolphe)!
 Il est sur le spectre!
 Son petit coeur est en peine

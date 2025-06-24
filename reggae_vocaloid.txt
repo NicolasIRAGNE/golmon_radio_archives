@@ -8,7 +8,7 @@ Ganja arigato gozaimasu (ありがとう ございます)
 Babylone, babylone (バビロン)
 c'est la ganja kawaii (かわいい)
 
-[Chorus, Epic]
+[Chorus] [Epic]
 Takeshi fais tourner le teh (お茶)
 Babylone, babylone (バビロン)
 Anata wa kawaii desu ne (わいいですね)

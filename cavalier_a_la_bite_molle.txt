@@ -1,10 +1,10 @@
-[Intro, Spoken]
+[Intro] [Spoken]
 Dans une lointaine contrée
 Vivait un chevalier
 Ma foi,
 un peu dans l'embarras...
 
-[Verse, Buildup]
+[Verse]
 Vers la forêt il s'en est allé
 Seulement armé de son épée
 Tous ses ennemis se moquent de lui
@@ -12,7 +12,7 @@ Car il ne bande que la nuit
 Alors il a juré de la trouver
 La soupe qui fait bander!
 
-[Chorus, Choir]
+[Chorus] [Choir]
 C'est le cavalier à la bite molle
 Oui le guerrier qui bande mou,
 à la recherche de la vielle folle,
@@ -20,21 +20,22 @@ maîtresse de tous les ragouts!
 La dernière fois qu'il a bandé
 On en a fait un jour férié!
 
-[Verse, Buildup]
+[Verse]
 Des jours et des jours il a marché
 sans cesse s'est répété
+[Choir]
 "Maudit sois-tu, Bali Balo!
 Pourquoi bandes-tu comme un taureau?"
+[Verse]
 Alors il a juré de la trouver
 La soupe qui fait bander!
 
-[Chorus, Choir]
-C'est le cavalier à la beat molle
-Le chevalier qui bande mou,
+[Chorus] [Choir]
+C'est le cavalier à la bite molle
+Oui le guerrier qui bande mou,
 à la recherche de la vielle folle,
 maîtresse de tous les ragouts!
-Il s'est lancé dans une quête
-Pour raviver sa quequette!
 La dernière fois qu'il a bandé
 On en a fait un jour férié!
+
 

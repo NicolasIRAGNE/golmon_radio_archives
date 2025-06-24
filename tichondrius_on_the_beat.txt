@@ -1,22 +1,25 @@
-[Intro]
 (Tiquons-driusse on the beat)
-J'rappe en direct de l'ossuaire,
-Featuring ton arrière grand-père
-Plus grosse bite du cimetière,
-(Plus gros beat du cimetière)
 
-[Verse]
+[Sample]
+(Ma vie pour Nerzoul!)
+
+[Intro]
+Plus grosse beat du cime'tière,
+Plus gros beat du cime'tière
+
+[Verse] [Alkpote]
 Yo,
-J'rappe en direct de l'ossuaire,
+eh
+J'rappe en direct de l'eau sue-air,
 Featuring ton arrière grand-père
-Plus grosse bite du cimetière,
+Plus gros beat du cime'tière,
 Représente les mal'terres
-On a retrouvé ta dignité,
+j'ai reutrouvé ta dignité,
 entre une tête et un péroné
-J'traîne avec lesabominations,
-Hangout avec les banshees,
-Voile de mort dans ton fion,
+j'suis dans l'jacuzzi avec les bansheez,
+a la shisha avec lesabominations,
 Cœur plus froid qu'la banquise
+Voile de mort dans ton fion,
 Golem de chair, homme d'affaires,
 J'enterre c'qui t'reste de carrière
 
@@ -24,7 +27,7 @@ J'enterre c'qui t'reste de carrière
 Rien à foutre des crimes de guerre,
 On va p'têt rèzz Adolphe Hit'laire (skurt)
 
-[Chorus, Autotuned]
+[Chorus]
 Appelle ça l'toucher du tombeau
 Car une beat et deux goules sont dans ta sono
 On a corrompu le jeune prince,
@@ -32,7 +35,7 @@ Transformé une mégapole en nécropole
 J'met d'l'elixir dans mon vin,
 Pis d'la mète dans ton grain (ooooh)
 
-[Verse]
+[Verse] [Manu Militari]
 J'assassine l'instru pis j'la ressuscite,
 Toute ta famille dans une grosse marmite (skurt)
 J'fais twerker les nécromanciens,
@@ -44,7 +47,7 @@ Vrai mort vivant résiste à une fusillade,
 paye ton respect à Quel tuzade,
 plusse de tentatives d'assassinat qu'Fidel (Castrooooh)
 
-[Chorus, Autotuned, Climax]
+[Chorus] [Climax]
 Appelle ça l'toucher du tombeau
 Car une beat et deux goules sont dans ta sono
 On a corrompu le jeune prince,
@@ -52,7 +55,7 @@ Transformé une mégapole en nécropole
 J'met d'l'elixir dans mon vin,
 Pis d'la mète dans ton grain (ooooh)
 
-[Verse]
+[Verse] [Kaaris]
 Seigneur de l'effroi, aura vampirique,
 Une âme plus noire qu'ton slip
 Mort et décomposition dans ton salon,
@@ -63,7 +66,7 @@ Sacrifice humain au quotidien
 J'fais des quenelles du haut d'la citadelle
 T'as capté
 
-[Chorus, Autotuned, Climax]
+[Chorus] [Climax]
 Appelle ça l'toucher du tombeau
 Car une beat et deux goules sont dans ta sono
 On a corrompu le jeune prince,
@@ -71,7 +74,7 @@ Transformé une mégapole en nécropole
 J'met d'l'elixir dans mon vin,
 Pis d'la mète dans ton grain (ooooh)
 
-[Chorus, Autotuned, Climax]
+[Chorus] [Climax]
 Appelle ça l'toucher du tombeau
 Car une beat et deux goules sont dans ta sono
 On a corrompu le jeune prince,
@@ -79,7 +82,7 @@ Transformé une mégapole en nécropole
 J'met d'l'elixir dans mon vin,
 Pis d'la mète dans ton grain (ooooh)
 
-[Outro, Spoken]
+[Outro] [Spoken]
 Eh, maintenant
 Maintenant tu sais!
 Ma vie pour Nerzoul!

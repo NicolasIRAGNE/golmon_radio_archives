@@ -1,0 +1,90 @@
+[Intro]
+(DJ s s h on the beat)
+[Spoken]
+eh, j'ai scanné tes ports
+gros porc
+(pu-pu-pu-pute)
+représente le neuf trois
+neuf quatre, neuf cinq
+port vingt-deux, quatre-cent-quarante-trois t'as capté
+(pu-pu-pu-pute)
+le aime-oh-tédé c'est la rue
+
+[Verse]
+Grosse salope (salope)
+c'est le nom de ma VM
+zbre zbre zbre
+c'est le bruit d'mon VPN (pétasse)
+J'installe mon Proxmox
+ton père met des croxe moches (sku)
+Ouais c'est moi l'superuseur
+qui va brické ton serveur (easy) (salope)
+T'es un gros nigaud sans distro, j'doxe ton bigo tes log en disent trop
+Kali Linux va pas t'sauver gros (salope salope) Omniscient, j'ai une puce dans l'cerveau
+(où sont les néo-putes?)
+(qui sont les néo-putes?)
+
+[Chorus]
+du rap de nerd bien sales (pas lavé)
+ceux qui t'font du mal (smash bros)
+j'passe entre les mailles j'contourne ton firewall
+zero day, j'exploite tes failles (s/o Opène-esse-esse-elle)
+zéro douche, j'fais d'la maille
+
+[Verse] [Rap]
+j'ai pas d'pote (j'ai plus d'meuf) j'ai pas d'vie
+mais sa mère la pute j'ai une apéhi
+ta mère la script kiddie (easy)
+vas-y accepte les cookies (easy)
+range ta bite, j'ai un rootkit (eh, eh)
+pas d'DHCP, c'est moi qu'assigne les zippé (eh, eh)
+j'dribble avec mes paquets appelle moi Mbappé
+essaye pas de d'm'attaquer j'tai déjà haine-mappé (sku)
+j'lance mes VPS pour t'dosse (plus d'service)
+c'est trop tard j'ai grep tes doss'
+("ton historique est compromettant mon reuf")
+
+[Chorus]
+du rap de nerd bien sales (pas lavé)
+ceux qui t'font du mal (smash bros)
+j'passe entre les mailles j'contourne ton firewall
+zero day, j'exploite tes failles (s/o Opène-esse-esse-elle)
+zéro douche, j'fais d'la maille
+
+[Verse] [Rap]
+calibre quarante-quatre, RJ quarante-cinq
+j'te dédosse comme si j'tais cinq (skurt)
+tu navigues en zéro trust j’vend la zéro neuf
+j'vais ping ta meuf on va rooter ta teuch (skurt skurt)
+j'pull up en go, j'pull up en python
+ta mère en louis vuitton
+tous mes scripts sont posix-compliant
+ta pute m'appelle en criant (ouh)
+
+[Verse] [British Accent] [UK Drill]
+Yo, Yo
+Your beech is like your updates ; unattended
+bah, try to hack my system ; unaffected
+I'm a hacker, cracker, coder
+You're a loser, you're a poser (yeah)
+I'll be reverse engineering your binaries
+while you're struggling linking your libraries
+Master of the shell, my scripts straight outta hell
+I'll inject control characters, i'll ring your bell
+Sweet dreams, you mongrel
+You'd better check on your kernel
+Right back to the kennel
+
+[Chorus]
+du rap de nerd bien sales (pas lavé)
+ceux qui t'font du mal (smash bros)
+j'passe entre les mailles j'contourne ton firewall
+zero day, j'exploite tes failles (s/o Opène-esse-esse-elle)
+zéro douche, j'fais d'la maille
+
+[Outro] [Spoken]
+Sed Gueko, neo crontab
+Yeah
+
+[Fade Out]
+[End]

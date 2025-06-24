@@ -9,7 +9,7 @@ C'est décidé, j'pars au cap vert!
 J'ai hâte de partir loin d'ici
 
 [Pre-Chorus]
-Attends, je crois que le site a buggé
+"Attends, je crois que le site a buggé"
 Oh putain, j'ai cliqué sur un truc chelou
 
 [Chorus]
@@ -29,26 +29,23 @@ Pour pouvoir socialiser avec mes potes les Taliban
 [Me]
 J'parle avec mon pote Mahmoud
 Il m'dit
-[Mahmoud]
-"assalam aleykum akhi"
-[Me]
-J'lui répond "euh bonjour monsieur"
+
+- ("assalam aleykum akhi")
+J'lui répond
+- "euh bonjour monsieur"
 Il m'dit
-[Mahmoud]
-"t'as pas l'air d'être d'ici"
+- ("t'as pas l'air d'être d'ici")
 [Me]
 bah ouais, il est con lui
 evidemment que j'suis pas d'ici
-J'viens d'France, j'parle pas arabe
+- "J'viens d'France, j'parle pas arabe"
 il est con lui
-[Mahmoud]
-"t'as pas l'air d'être d'ici"
-[Me]
+- ("t'as pas l'air d'être d'ici")
 bah ouais, il est con lui
 (T'es con ou quoi, Mahmoud?)
 
 [Chorus]
-
+Putain d'merde, j'pars en Afghanistan
 C'est pas vraiment c'que j'voulais
 J'vais faire coucou aux Taliban
 Au moins, j'aurai des trucs à raconter
@@ -57,5 +54,9 @@ J'porte même pas le voile
 (Comment ça, c'est que pour les femmes?)
 Faut que j'télécharge un pédé eff du coran
 Pour pouvoir socialiser avec mes potes les Taliban
+Faire coucou aux Taliban
+Faire coucou aux Taliban
+...
+C'est pas vraiment c'que j'voulais
 
 [End]
