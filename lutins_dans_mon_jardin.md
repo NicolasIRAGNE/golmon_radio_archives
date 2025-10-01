@@ -1,7 +1,7 @@
 [Intro] [Spoken]
 *applause*
 dans mon jardin, y'a quoi ?
-("des lutins!")
+[Audience] ("des lutins!")
 Dans mon jardin...
 
 [Chorus]

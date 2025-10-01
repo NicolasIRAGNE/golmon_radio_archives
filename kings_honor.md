@@ -6,7 +6,7 @@ J'débarque avec la cavalerie
 téma la classe, guette les bâtiments
 2 tours, 1 roi, zéro clounerie
 capitale culturelle, développement rayonnant
-du quartier résidentiel, au quartier commerçant
+quartier résidentiel, quartier commerçant
 "force et honneur" ? tu m'fais bien marrer
 quel honneur dans les massacres que t'as perpétré ?
 et j'te parle même pas des crimes de Sylvanass

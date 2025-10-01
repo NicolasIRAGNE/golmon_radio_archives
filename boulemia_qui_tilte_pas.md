@@ -8,17 +8,17 @@ Tu crois quoi, j'vais pas tilter
 
 [Pre-Chorus]
 Oui, c'est bien moi
-Le Boulémi qui tilte pas!
+Le Boulémia qui tilte pas!
 
 [Chorus]
-Yanis Boulémiaaa,
-L'intiltable Boulémi,
-J'roule ma bosse en mid-lane,
+Yanis Boulémiaaaa,
+L'intiltable Boulémia,
+J'fais des move en mid-lane,
 Je ping même la bot-lane
 Mais tu me tilteras pas,
 Surtout pas un mec comme moi
 Si je tilte, honte à moi, honte à toi
-Car je suis le Boulémi qui tilte pas
+Car je suis le Boulémia qui tilte pas
 
 [Verse]
 Mon équipe est au fond du trou,
@@ -27,20 +27,24 @@ Le nocturne est alcoolique,
 Et leur Irelia est hystérique
 Mais moi je reste zen,
 Pas de tilt, pas de haine
+On est meilleurs, c'est évident
+Faut juste rester confiant
+Le mental c'est le plus important
+Pas de place au harcèlement
 
 [Pre-Chorus]
 Car oui, c'est bien moi
-Le Boulémi qui tilte pas!
+Le Boulémia qui tilte pas!
 
 [Chorus]
-Yanis Boulémiaaa,
-L'intiltable Boulémi,
-J'roule ma bosse en mid-lane,
+Yanis Boulémiaaaa,
+L'intiltable Boulémia,
+J'fais des move en mid-lane,
 Je ping même la bot-lane
 Mais tu me tilteras pas,
 Surtout pas un mec comme moi
 Si je tilte, honte à moi, honte à toi
-Car je suis le Boulémi qui tilte pas
+Car je suis le Boulémia qui tilte pas
 
 [Verse]
 Par contre là c'est abusé
@@ -58,11 +62,11 @@ Oui, c'est bien moi
 Le Boulémia qui tilte sa mère!
 
 [Chorus]
-Yanis Boulémiaaaa,
-Le tiltable Boulémia,
-J'feed ma race en mid-lane,
-Jme fais ping par la bot-lane
-Ouais tu m'as tilté
+Yanis Boulémiaaaa (fils de pute),
+Le tiltable Boulémia (ta grand mère),
+J'feed ma race en mid-lane (ta sœur aussi),
+Jme fais ping par la bot-lane (j'vais t'enculer)
+Ouais tu m'as tilté (fils de putain d'putain d'pute)
 Espèce de gros pédé
 Ouais j'tilte,
 honte à moi, honte à toi

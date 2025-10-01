@@ -4,25 +4,25 @@
 "アンダスマス…ブーレミア…目を覚ませ…エリック・ゼムールが世論調査で首位を走っている…"
 "何？エリック・ゼムール？"
 "..."
-"Réveille-toi, Andasmass! Tu es notre seul espoir!"
+"Réveille-toi, Andassmass! Tu es notre seul espoir!"
 
 [Verse]
 (Hmmm...)
 Lorsque le ciel s'assombrit une étoile brille dans la nuit
 Du fin fond de Clichy un grand héros a surgi
-(Andasmass!)
+(Andassmass!)
 regardez ses babouches (car il est arabe)
 Regardez sa moustache (car il est bogoss)
 casser des bouches, voilà donc sa tâche
 
 [Pre-Chorus] [Spoken]
-"Réveille-toi, Andasmass... Tu es notre seul espoir..."
+"Réveille-toi, Andassmass... Tu es notre seul espoir..."
 
 [Chorus]
-Sibère Andasmass!
+Sibère Andassmass!
 Lorsque l'espoir s'efface
 (Ne laisse aucune trace)
-Sibère Andasmass!
+Sibère Andassmass!
 Tu vas niquer la race
 (à Zémmour et ses rapaces!!)
 Contre les fachos les rastons
@@ -31,11 +31,11 @@ Roule un teh et prépare ton canon
 (Alleeeeez!)
 
 [Whispering]
-"Andasmass... Boulémia... Ne nous abandonnez pas... Les fascistes sont à nos portes..."
+"Andassmass... Boulémia... Ne nous abandonnez pas... Les fascistes sont à nos portes..."
 
 
-[Intermission] [Male Vocals] [Yelling] [Reverb]
-"Andasmass, rends toi à l'évidence, tu n'as aucune chance
+[Intermission] [Reading] [Dialogue]
+"Andassmass, rends toi à l'évidence, tu n'as aucune chance
 Tu es trop faible face à mon armée de robo-fachos
 Tu vas mourir, et je reconstruirai la France
 Hahaha, tu es fini, je vais te renvoyer en Arabie
@@ -46,10 +46,10 @@ Attends un peu, que vois-je la bas? Qui vois-je ici-bas?"
 (ママぼうぼうのクスクス!)
 
 [Chorus]
-Sibère Andasmass!
+Sibère Andassmass!
 Lorsque l'espoir s'efface
 (Ne laisse aucune trace)
-Sibère Andasmass!
+Sibère Andassmass!
 Tu vas niquer la race
 (à Zémmour et ses rapaces!!)
 Contre les fachos les rastons
