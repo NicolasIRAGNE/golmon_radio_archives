@@ -1,3 +1,14 @@
+[Spoken] [Live]
+"Ouais... c'est pas mal!"
+"hey!
+hey!
+allez, j'veux voir tout l'monde debout là!
+Ouais!
+hey!
+(hey!)
+(hey!)
+(hey!)"
+
 [Verse]
 du haut des toits de Velmounde, une ombre se dessine
 une main sur la garde de son épée et l'autre sur sa poitrine
@@ -8,7 +19,7 @@ Nul ne connaît son visage
 Nul ne connaît son nom
 (Nul ne connaît son nom)
 
-[Pre-Chorus]
+[Spoken] [Live]
 mais tous savent qu'il est là
 et que la justice est son arme...
 
@@ -31,7 +42,7 @@ ne prends jamais de répit,
 (Spectre!)
 Gardien de la nuiiiiit!
 
-[Verse]
+[Spoken] [Live]
 Contre les voleurs, les assassins
 Les bandits de grand chemin
 Un sauveteur anonyme
@@ -40,8 +51,6 @@ Grand justicier de la nuit
 Ne leur laisse aucun répit
 Tu es notre héros
 Même si tu es un peu gros
-
-[chorus]
 
 [chorus, choirs]
 Spectre!

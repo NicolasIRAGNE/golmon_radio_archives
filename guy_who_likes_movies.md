@@ -69,8 +69,4 @@ Alfred Hitchcock, he's like film David Guetta
 (He's like film David Guetta (He's like film David Guetta))
 
 [Fade Out]
-J'adore les endives et les chicons
-[Fade Out]
-(les endives et les chicons)
-[Fade Out]
 [End]
